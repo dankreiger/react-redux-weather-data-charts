@@ -1,5 +1,7 @@
 ### React Redux Weather Data Charts
 
+[![Build Status](https://travis-ci.org/dankreiger/react-redux-weather-data-charts.svg?branch=master)](https://travis-ci.org/dankreiger/react-redux-weather-data-charts)
+
 * * *
 
 **Prerequisite (api key):**
