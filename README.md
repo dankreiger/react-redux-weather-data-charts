@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/dankreiger/react-redux-weather-data-charts.svg?branch=master)](https://travis-ci.org/dankreiger/react-redux-weather-data-charts)
 
+![React Redux Weather Charts](https://i.imgflip.com/1abuuo.gif)
+
 * * *
 
 **Prerequisite (api key):**
@@ -21,7 +23,8 @@
 
   **ssh:**
   ```sh
-  git clone git@github.com:dankreiger/react-redux-weather-data-charts.git```
+  git clone git@github.com:dankreiger/react-redux-weather-data-charts.git
+  ```
 
   **https:**
   ```sh
