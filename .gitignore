@@ -6,4 +6,5 @@ npm-debug.log
 *.iml
 /.idea
 
+.env
 .DS_Store

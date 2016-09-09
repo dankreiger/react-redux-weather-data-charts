@@ -13,6 +13,26 @@
 ```javascript
   const API_KEY='YOUR API KEY';
 ```
+***
+
+**Setup:**
+
+1. Clone the repo with ssh or https
+
+  **ssh:**
+  ```sh
+  git clone git@github.com:dankreiger/react-redux-weather-data-charts.git```
+
+  **https:**
+  ```sh
+  git clone https://github.com/dankreiger/react-redux-weather-data-charts.git
+  ```
+2. `npm install`
+3. `npm start`
+
+***
+
+
 
 
 ![React Redux Weather Data Charts](images/react_redux_weather_data_charts.png)
